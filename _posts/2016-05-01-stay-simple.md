@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: STAY SIMPLE
-datePublished: '2016-05-01T20:57:48.987Z'
-dateModified: '2016-05-01T19:52:18.453Z'
+datePublished: '2016-05-01T21:02:05.348Z'
+dateModified: '2016-05-01T20:59:22.286Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-stay-simple.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-stay-simple.md
-published: true
 url: stay-simple/index.html
 _type: Article
 
