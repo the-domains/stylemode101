@@ -1,0 +1,28 @@
+name: Stylemode101
+favicon: null
+layout_spectrum: 0.7829391588456929
+typography_spectrum: 0.34608606761321425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1206498050596565
+  lightness: 0.16204959875904024
+  saturation: 0.7647645769175142
+  rhythmicContrast: 0.5817210676614195
+purpose: []
