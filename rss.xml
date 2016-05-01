@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Style is Everything.]]></title>
-        <description><![CDATA[Style is Everything.]]></description>
+        <title><![CDATA[STYLE MODE 101... Where Style is Everything.]]></title>
+        <description><![CDATA[STYLE MODE 101... Where Style is Everything.]]></description>
         <link>https://thegrid.ai/stylemode101/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 21:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 22:32:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stylemode101/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6fa5596-fb83-4f52-9b85-a8cf2beb1acb.jpg">]]></description>
+            <description><![CDATA[<p>STAY SIMPLE</p>]]></description>
             <link>https://thegrid.ai/stylemode101/stay-simple/index.html</link>
             <guid isPermaLink="false">dd571acb-a1c0-4f7e-b9d8-3df24374efde</guid>
-            <pubDate>Sun, 01 May 2016 21:02:05 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 22:32:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
